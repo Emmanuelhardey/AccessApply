@@ -1,5 +1,4 @@
 # AccessApply
-# AccessApply
 
 **A voice-first job application assistant for people with visual impairment.**
 Built for the *Employment and Livelihoods* hackathon theme.
