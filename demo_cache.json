@@ -1,0 +1,66 @@
+[
+ {
+  "title": "Sales Executive",
+  "company": "BrightPath Distribution",
+  "location": "Lagos",
+  "description": "Sell household products to shops across Lagos mainland. Target-driven, good communication.",
+  "full": "Sell household products to shops across Lagos mainland. Target-driven, good communication.",
+  "email": "careers@brightpath.example"
+ },
+ {
+  "title": "Customer Service Representative",
+  "company": "Ladybird Stores",
+  "location": "Lagos",
+  "description": "Answer customer calls and resolve order problems. Patience and clear speech.",
+  "full": "Answer customer calls and resolve order problems. Patience and clear speech.",
+  "email": "jobs@ladybirdstores.example"
+ },
+ {
+  "title": "Administrative Assistant",
+  "company": "Northgate Logistics",
+  "location": "Abuja",
+  "description": "Manage schedules, files and office letters. Strong organisation skills.",
+  "full": "Manage schedules, files and office letters. Strong organisation skills.",
+  "email": "hr@northgate-logistics.example"
+ },
+ {
+  "title": "Social Media Manager",
+  "company": "Glow Naturals",
+  "location": "Lagos",
+  "description": "Plan content and manage ads for a skincare brand. Experience with analytics.",
+  "full": "Plan content and manage ads for a skincare brand. Experience with analytics.",
+  "email": "apply@glownaturals.example"
+ },
+ {
+  "title": "Data Entry Clerk",
+  "company": "Oyo Health Records",
+  "location": "Ibadan",
+  "description": "Enter and check records accurately. Fast, careful typing.",
+  "full": "Enter and check records accurately. Fast, careful typing.",
+  "email": "recruit@oyohealth.example"
+ },
+ {
+  "title": "Accountant",
+  "company": "Delta Foods Ltd",
+  "location": "Port Harcourt",
+  "description": "Prepare monthly accounts and reconcile ledgers. Bookkeeping experience.",
+  "full": "Prepare monthly accounts and reconcile ledgers. Bookkeeping experience.",
+  "email": "finance.jobs@deltafoods.example"
+ },
+ {
+  "title": "Receptionist",
+  "company": "Palm Court Hotel",
+  "location": "Lagos",
+  "description": "Welcome guests and handle bookings and calls. Friendly and reliable.",
+  "full": "Welcome guests and handle bookings and calls. Friendly and reliable.",
+  "email": "careers@palmcourt.example"
+ },
+ {
+  "title": "Junior Software Developer",
+  "company": "CodeNest Labs",
+  "location": "Lagos",
+  "description": "Build and test web features with a small team. Python or JavaScript.",
+  "full": "Build and test web features with a small team. Python or JavaScript.",
+  "email": "talent@codenest.example"
+ }
+]

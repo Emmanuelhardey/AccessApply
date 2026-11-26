@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>AccessApply: find jobs and apply by voice</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+<header class="top">
+<svg class="logo" viewBox="0 0 48 48" aria-hidden="true"><rect class="bg" width="48" height="48" rx="14"/><g class="bar"><rect x="11" y="20" width="4" height="8" rx="2"/><rect x="18" y="14" width="4" height="20" rx="2"/><rect x="25" y="9" width="4" height="30" rx="2"/><rect x="32" y="16" width="4" height="16" rx="2"/></g></svg>
+<div><h1>AccessApply</h1><p class="sub">Find a job and apply for it, using only your voice.</p></div>
+</header>
+<p class="note">Prototype notice: without API keys the app uses sample jobs and does not send email. In demo mode, any email goes to your own inbox, never to an employer.</p>
+
+<button id="mic" type="button" aria-label="Start. Press to begin and talk.">Tap to talk</button>
+<p id="hint">Tap the button, or press Space, to begin.</p>
+
+<form id="tf">
+<label for="ti">Prefer to type? Enter your answer here.</label>
+<input id="ti" autocomplete="off" placeholder="Type your answer">
+<button class="s" type="submit">Send answer</button>
+</form>
+
+<section id="stage" aria-live="polite"></section>
+
+<h2>Conversation</h2>
+<div id="log" role="log"></div>
+<button id="reset" type="button">Start over</button>
+</main>
+<script src="app.js"></script>
+</body>
+</html>
